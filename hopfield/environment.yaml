@@ -19,3 +19,4 @@ dependencies:
   - mpmath
   - pip:
     - opencv-python
+    - torchmetrics
