@@ -17,6 +17,8 @@ dependencies:
   - imageio
   - scikit-image
   - mpmath
+  - tensorboard
+  - tensorboardX
   - pip:
     - opencv-python
     - torchmetrics
