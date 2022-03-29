@@ -22,3 +22,4 @@ dependencies:
   - pip:
     - opencv-python
     - torchmetrics
+    - torchinfo
