@@ -130,3 +130,7 @@ dmypy.json
 
 data/
 mnist-*/
+roms/
+tensorboard*/
+simpsons
+simpsons/

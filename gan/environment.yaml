@@ -1,0 +1,25 @@
+name: gan-pytorch
+channels:
+  - pytorch
+  - defaults
+dependencies:
+  - python=3.9
+  - pip
+  - cudatoolkit=11.3.1
+  - pytorch=1.10.2
+  - torchvision
+  - ipython
+  - ipykernel
+  - tqdm
+  - requests
+  - matplotlib
+  - Pillow
+  - imageio
+  - scikit-image
+  - mpmath
+  - tensorboard
+  - pip:
+    - opencv-python
+    - torchmetrics
+    - torchinfo
+    - 'gym[atari]'
