@@ -136,3 +136,7 @@ simpsons
 simpsons/
 experiments/
 .vscode/
+
+# Custom
+*.cpt
+cifar10-*
